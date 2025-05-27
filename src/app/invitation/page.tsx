@@ -28,7 +28,7 @@ export default function Invitation() {
       >
         <h1 className="text-4xl font-bold mb-8">Kaki kamu ga kenapa napa kan?</h1>
         <p className="text-xl mb-12">
-         Kalo ga kenapa napa, yukkk jalannn sama akuu, mauu gaa?
+         Kalo ga kenapa napa, yukkk jalannn jalannn naik motorr sama akuu, mauu gaa?
         </p>
 
         <div className="flex justify-center gap-8">

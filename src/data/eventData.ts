@@ -4,7 +4,7 @@ export const eventDetails: EventDetails = {
   location: 'Terra Coffee & Space',
   venueImage: '/images/location.jpg',
   date: '29 Mei 2025',
-  time: '1 Ciangg',
+  time: '1 Cianggan',
   menu: [
     {
       id: '1',
